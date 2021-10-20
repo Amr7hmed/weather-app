@@ -5,7 +5,7 @@ npm install
 
 ### To run the file, please install the project through the terminal
 ```
-npm install
+npm start
 ```
 
 ### What is required for implementation

@@ -10,5 +10,5 @@ npm install
 
 ### What is required for implementation
 ```
-weather-app an API link.
+Application for displaying weather by city API link.
 ```
